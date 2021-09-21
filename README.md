@@ -16,3 +16,6 @@ Given a list of employee's performance, find the bonuses each employee should ge
 01 - Swap every two nodes in a linked list: 
 Given a linked list, swap the position of the 1st and 2nd node, than swap the position of the 3rd and 4th etc.
 
+02 - First recurring character:
+Given a string, return the first recurring letter that apppears.
+If there are no recurring letters, return None.
