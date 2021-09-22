@@ -19,3 +19,8 @@ Given a linked list, swap the position of the 1st and 2nd node, than swap the po
 02 - First recurring character:
 Given a string, return the first recurring letter that apppears.
 If there are no recurring letters, return None.
+
+03 - H index:
+The H-index is a metric that attempts to measure the productivity and citation impact of the publication of a scholar.
+The definition of the H-index is if a scholar has at least H of their papers cited H times.
+Given a list of publications of the number of citations a scholar has, find their H-index.
