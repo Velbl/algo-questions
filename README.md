@@ -25,7 +25,10 @@ The H-index is a metric that attempts to measure the productivity and citation i
 The definition of the H-index is if a scholar has at least H of their papers cited H times.
 Given a list of publications of the number of citations a scholar has, find their H-index.
 
-04 - Running median:
+04 - Shortest unique prefix:
+Given a list of words, for each word find the shortest unique prefix. You can assume a word will not be a substring of another word of another word (ie play and playing won't be in the same words list).
+
+05 - Running median:
 You are given a stream of numbers. Compute the median for each new element.
 eg. Given [2, 1, 4, 7, 2, 0 ,5], the algorithm should output [2, 1.5, 2, 3.0, 2, 2, 2]
 
