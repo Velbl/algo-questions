@@ -32,3 +32,10 @@ Given a list of words, for each word find the shortest unique prefix. You can as
 You are given a stream of numbers. Compute the median for each new element.
 eg. Given [2, 1, 4, 7, 2, 0 ,5], the algorithm should output [2, 1.5, 2, 3.0, 2, 2, 2]
 
+06 - Longest substring:
+Given a string, find the length of the longest substring without repeating characters.
+Examples:
+"abcaca" = 3 (abc)
+"bbbbb"  = 1 (b)
+"pwwkew" = 3 (wke)
+
